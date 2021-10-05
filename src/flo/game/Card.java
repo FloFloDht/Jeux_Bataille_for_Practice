@@ -1,7 +1,7 @@
 package flo.game;
 
 public class Card {
-    int value;
+    int value; //comprise entre 1 et 10 le tout en double
 
     public Card(int value) {
         this.value = value;
